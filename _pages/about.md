@@ -11,4 +11,4 @@ redirect_from:
 A website for Riley Cooper
 ======
 
-This will be better soon.
+Currently under development.
